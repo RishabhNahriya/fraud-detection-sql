@@ -1,0 +1,8 @@
+transaction_id,user_id,amount,date,location,device_type,status
+1,101,5000,2024-01-01,Delhi,Mobile,Completed
+2,101,20000,2024-01-02,London,Laptop,Failed
+3,102,8000,2024-01-02,Mumbai,Laptop,Completed
+4,103,100000,2024-01-02,Delhi,Phone,Failed
+5,101,300,2024-01-02,Delhi,Mobile,Completed
+6,103,7500,2024-01-02,Bangalore,Tablet,Failed
+7,103,3000,2024-01-02,Bangalore,Tablet,Failed
